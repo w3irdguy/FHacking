@@ -1,7 +1,7 @@
 
 # FHacking (Fake Hacking)
 
-I use the single one script of his guy below:
+I used single one script of his guy below:
 
 https://github.com/sandoche
 
