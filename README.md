@@ -34,4 +34,9 @@ cd FHacking
 
 python password.py
 
+# Some Texts Are In Portuguese Language!
+
+If you dont understand, please forgive me
+:(
+
 # Enjoy :) #
