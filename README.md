@@ -8,3 +8,30 @@ https://github.com/sandoche
 Follow him :) 👽
 
 # This Tool Can be used On Kali Linux And Termux(idk if it is work in windows or something else like)
+
+For fun purposes write on your terminal:
+# Installation for Kali:
+apt-get install git
+
+apt-get install python3
+
+git clone
+https://github.com/ixzzxitado/FHacking
+
+cd FHacking
+
+python3 password.py
+
+# Installation for Termux
+
+pkg install git
+
+pkg install python
+
+git clone https://github.com/ixzzxitado/FHacking
+
+cd FHacking
+
+python password.py
+
+# Enjoy :) #
