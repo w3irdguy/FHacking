@@ -11,9 +11,10 @@ Follow him :) 👽
 
 For fun purposes write on your terminal:
 # Installation for Kali:
-apt-get install git
 
-apt-get install python3
+sudo apt-get install git
+
+sudo apt-get install python3
 
 git clone
 https://github.com/ixzzxitado/FHacking
